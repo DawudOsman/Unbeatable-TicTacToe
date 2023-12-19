@@ -8,13 +8,12 @@ This is a Tic-Tac-Toe game with a graphical user interface (GUI) implemented in 
 - Player vs Computer with GUI
 - Minimax algorithm for computer's move
 - Interactive and user-friendly interface
-
+##Minimax Algorithm
+The Minimax algorithm is a decision-making algorithm employed in two-player games, ensuring the computer player makes optimal moves by considering all possible outcomes.
 ## Getting Started
 1. Make sure you have Java installed on your system.
 2. Clone this repository to your local machine:
 
-```bash
+```bash 
 git clone https://github.com/DawudOsman/Unbeatable-TicTacToe
 
-Minimax Algorithm
-The Minimax algorithm is a decision-making algorithm employed in two-player games, ensuring the computer player makes optimal moves by considering all possible outcomes.
